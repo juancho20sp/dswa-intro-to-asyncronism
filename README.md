@@ -12,8 +12,7 @@
 ## Requisitos
 
 - Marcar el repositorio, recuerde que tarea que se entregue sin nombre será calificada con cero.
-- Desplegar la página, si no despliega la página no se realizará una evaluación y tendrá que subirlo posteriormente en el repositorio de tareas tardías, que se califica sobre 3.
-
+- Desplegar la página, recuerde que tarea sin desplegar no se califica.
 
 ## Rúbrica
 
